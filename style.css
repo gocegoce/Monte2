@@ -1,0 +1,79 @@
+
+body {
+    
+    width: 98%;
+    
+    height: 100%;
+    background-image: url(./images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+img{ 
+    width: 100%; 
+    }
+
+#box {
+    
+    width: 181px;
+    height: 181px;
+    margin: 0 430px;
+    padding: 40px;
+    }
+
+.box{
+    width: auto;
+    margin: -120px 330px;
+    padding: 85px;
+    
+}
+
+
+
+
+
+
+h1{
+    font-size: 60px;
+    text-shadow: 2.5px -3px 0px white;
+    width: auto;
+    color: white;
+    padding: 55px;
+    margin: -60px 50px;
+    color: dodgerblue;
+    
+}
+
+
+h2{ 
+    text-shadow: -2px 2px 0px black;
+    font-size: 35px;
+    width: auto;
+    color: white;
+    padding: 40px;
+    margin: -80px 327px;
+}
+
+p { 
+    text-shadow: -2px 2px 0px #000;
+    width: auto;
+    color: white;
+    padding: 60px;
+    margin: -60px -80px; 
+    font-size: 20px;
+    text-shadow: 10p 10px;
+}
+
+
+
+span {
+    color: white;
+    font-size: 60px;
+    text-shadow: 2.5px -3px 0px dodgerblue;
+}
+
+
+
+
+
